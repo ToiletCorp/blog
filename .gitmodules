@@ -1,7 +1,3 @@
-[submodule "toiletcorp.github.io"]
-	path = toiletcorp.github.io
-	url = git@github.com:ToiletCorp/toiletcorp.github.io.git
-	branch = main
 [submodule "themes/hugo-profile"]
 	path = themes/hugo-profile
 	url = https://github.com/gurusabarish/hugo-profile.git
